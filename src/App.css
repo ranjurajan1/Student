@@ -1,0 +1,29 @@
+
+
+
+
+
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.input-tag{
+  
+  width:400px;
+  height:55px;
+  outline:none;
+
+
+  margin-bottom:.25px;
+}
+button{
+  height:50px;
+  width:200px;
+  background-color:aqua;
+  
+  color:white;
+  border-radius:5px;
+  border:none;
+
+}
